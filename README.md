@@ -1,4 +1,3 @@
---- README.md ---
 # Codename Engine — Psych-Style Lua Integration (REAL DROP-IN)
 
 This pack adds **FULL Psych-style Lua scripting** into **Codename Engine**, including:
@@ -82,4 +81,4 @@ You must provide **one** of these:
 - LuaJIT native binding (recommended) OR
 - Lua 5.4 native binding OR
 - Pure Haxe Lua VM (slow but no native setup)
-- Generate target-specific native binding for Windows/macOS/Linux (hxcpp/hxcpp + C++) to load LuaJIT and forward calls.
+- Generate target-specific native binding for Windows/macOS/Linux (hxcpp/hxcpp + C++) to load LuaJIT and forward 
