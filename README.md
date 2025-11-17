@@ -11,7 +11,7 @@ This allows you to **configure gameplay, characters, camera, sound, and more** v
 
 1. Place the entire folder into your game’s scripts directory:
 
-```
+```haxe
 /data/scripts/codenameluanotreally/
 ```
 
